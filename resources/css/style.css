@@ -34,7 +34,7 @@ body {
 body .container {
   max-width: 960px;
   margin: auto;
-  margin-top: 5rem;
+  margin-top: 7rem;
   justify-content: center;
   text-align: center;
 }
@@ -71,6 +71,7 @@ header .container {
 
 header img {
   width: 100%;
+  margin-bottom: 1rem;
 }
 
 header .button {
