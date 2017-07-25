@@ -69,6 +69,10 @@ header .container {
   margin: 3rem;
 }
 
+header img {
+  width: 100%;
+}
+
 header .button {
   background-color: #a8201d;
   margin: 0.5rem;
