@@ -48,7 +48,7 @@ div {
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
-  width: 100%;
+
 }
 
 .image-container {
@@ -63,13 +63,17 @@ body .text {
 
 /*header*/
 
+header .container {
+  margin-top: 12rem;
+  height: 70rem;
+}
 
 body a {
   font-family: 'Roboto', sans-serif;
   text-align: center;
   text-transform: uppercase;
   color: white;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 500;
   text-decoration: none;
 }
@@ -83,7 +87,7 @@ body ul {
 
 body ul li {
   list-style: none;
-  margin: 0 0 0.5rem 0;
+  margin: 0.3rem 0 0.3rem 0;
 
 }
 
@@ -109,6 +113,7 @@ body img {
 .cumaru img ,
 .raiz img {
   width: 100%;
+
 }
 
 /* main content*/
