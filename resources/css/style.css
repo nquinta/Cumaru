@@ -48,7 +48,7 @@ div {
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
-  
+  width: 100%;
 }
 
 .image-container {
@@ -160,8 +160,6 @@ body p {
 
 /* footer*/
 
-footer {
-}
 
 footer a {
   color: #4e362e;
